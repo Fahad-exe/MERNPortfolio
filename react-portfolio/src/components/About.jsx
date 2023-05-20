@@ -13,20 +13,21 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-          reiciendis placeat provident, temporibus unde porro ratione non
-          reprehenderit repudiandae aperiam ab, vel quod architecto molestias
-          minima fugiat itaque adipisci, dolorum sit vero facere molestiae.
-          Repudiandae, porro praesentium. Ducimus, quidem? Esse quisquam enim
-          eius ratione voluptate explicabo, assumenda iure corrupti
-          consequuntur.
+          My name is Fahad Matlagitu, and I recently graduated from Plymouth
+          University with a degree in Computer Science, specializing in Game
+          Development. During my studies, I had the opportunity to work on
+          full-stack web development projects which piqued my interest,
+          especially MERN stack, which has given me a solid foundation in
+          creating full-stack web applications.
         </p>
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime,
-          quaerat! Enim nihil laudantium veritatis illo quisquam error expedita
-          repellat cupiditate voluptas, reiciendis pariatur. Corrupti ipsum
-          aperiam praesentium dignissimos eaque incidunt!
+          I have experience with JavaScript, including popular libraries such as
+          React and Node.js. Additionally, I am always eager to learn new
+          technologies and am currently exploring Kotlin as my next programming
+          language of interest. As a passionate learner and driven individual, I
+          am excited about contributing my skills and knowledge to your company.
+          Thank you for considering my application.
         </p>
       </div>
     </div>
